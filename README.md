@@ -20,3 +20,9 @@ Make sure you have the following installed on your development environment:
 
 ```bash
 git clone https://github.com/Parsaloi/microservices-and-serverless-by-IBM.git
+
+2. Change to project directory
+
+```bash
+cd creating-a-rest-api/hello-rest
+
