@@ -1,4 +1,4 @@
-# microservices-and-serverless-by-IBM
+# microservices-and-serverless-101
 I am undertaking a course on micro-services and serverless computing by IBM to understand the principles and concepts related to this domain.
 
 # Practical Challenge 1: A Simple RESTful Web Application
