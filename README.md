@@ -19,4 +19,4 @@ Make sure you have the following installed on your development environment:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Parsaloi/microservices-and-serverless-by-IBM.git
+git clone https://github.com/Parsaloi/microservices-and-serverless-101.git
